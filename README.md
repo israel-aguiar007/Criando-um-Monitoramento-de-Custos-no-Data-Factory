@@ -20,7 +20,7 @@ Criar este repositório para documentar o processo de uso do **Azure Databricks*
 - Configurei o resource group, região e plano de pricing gratuito (quando possível)
 
 📷 *Print do workspace criado no Azure*  
-![print1](./prints/workspace_azure.png)
+![print1]([./prints/workspace_azure.png](https://github.com/israel-aguiar007/Criando-um-Monitoramento-de-Custos-no-Data-Factory/blob/main/Interface%20do%20Azure_%20Databricks%20Workspace.png))
 
 ### ✅ 3. Acesso ao Azure Databricks e Criação de Cluster
 
