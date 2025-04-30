@@ -20,7 +20,6 @@ Criar este repositório para documentar o processo de uso do **Azure Databricks*
 - Configurei o resource group, região e plano de pricing gratuito (quando possível)
 
 📷 *Print do workspace criado no Azure*  
-![print1](Interface do Azure_ Databricks Workspace.png)
 
 ### ✅ 3. Acesso ao Azure Databricks e Criação de Cluster
 
@@ -28,7 +27,6 @@ Criar este repositório para documentar o processo de uso do **Azure Databricks*
 - Criei um cluster com configuração padrão
 
 📷 *Print do cluster criado*  
-![print2](./prints/cluster_databricks.png)
 
 ### ✅ 4. Criação de Notebook e Execução de Código
 
@@ -36,7 +34,6 @@ Criar este repositório para documentar o processo de uso do **Azure Databricks*
 - Executei comandos simples com Spark (ex: leitura de DataFrame)
 
 📷 *Print do notebook com código Spark*  
-![print3](./prints/notebook_codigo.png)
 
 ---
 
